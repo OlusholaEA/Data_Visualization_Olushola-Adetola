@@ -1,0 +1,1 @@
+Worked on various Charts type, Chart Customization, Pivot table and Dashboard creation for my fourth week training with Mentorship for Acceleration(M4ACE). These are storytelling tools that can be used to convey insights and metrics.
